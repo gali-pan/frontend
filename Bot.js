@@ -5,6 +5,7 @@
 // @description  Script for search in BING
 // @author       Galina Pankratova
 // @match        https://www.bing.com/*
+// @match        https://www.auto.ru/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=bing.com
 // @grant        none
 // ==/UserScript==
